@@ -1,0 +1,54 @@
+"","codigo_del_inmueble","organizacion","pais","provincia","departamento","localidad","calle","numero","situacion_inmueble","superficie_aproximada_m2","longitud","latitud"
+"1",200044010,"AFIP ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Defensa","131/135","Alquilado",442.18,-58.3723034871,-34.6095330585
+"2",200044029,"AFIP ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Perón","1388","Alquilado",339.94,-58.3862273643,-34.6065441419
+"3",200048301,"AFIP ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Hipolito Yrigoyen","440","Alquilado",1475.81,-58.3729947718,-34.6091955611
+"4",200048385,"AFIP ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Sarmiento","1155","Alquilado",1341,-58.3830454161,-34.6047334217
+"5",200048474,"AFIP ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Salta","1449/51","Alquilado",3092.37,-58.3833389814,-34.6253810438
+"6",200048377,"INSTITUTO NACIONAL DE TECNOLOGÍA AGROPECUARIA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Parana","224","Alquilado",364.4,-58.3878954343,-34.6062691553
+"7",200048415,"INSTITUTO NACIONAL DE TECNOLOGÍA AGROPECUARIA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Avenida Rivadavia","1434","Alquilado",539.82,-58.3865627289,-34.6090464564
+"8",200026926,"JEFATURA DE GABINETE DE MINISTROS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av Julio A Roca","710","Alquilado",269.1,-58.375934469,-34.6117361383
+"9",200030176,"MINISTERIO DE AGROINDUSTRIA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Balcarce","645/ 633/ 637/ 641","Alquilado",242.57,-58.370334828,-34.6162489289
+"10",200030184,"MINISTERIO DE AGROINDUSTRIA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Azopardo","1025/ 1035/ 1049","Alquilado",1411.78,-58.3672949354,-34.6196340233
+"11",200042591,"MINISTERIO DE AGROINDUSTRIA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Belgrano","450/ 452","Alquilado",510,-58.3725245782,-34.6127356514
+"12",200042603,"MINISTERIO DE AGROINDUSTRIA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Belgrano","456","Alquilado",548.4,-58.3727774133,-34.6127364
+"13",200026489,"MINISTERIO DE AMBIENTE Y DESARROLLO SUSTENTABLE","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Reconquista","555","Alquilado",404.03,-58.3723669018,-34.6013882798
+"14",200026497,"MINISTERIO DE AMBIENTE Y DESARROLLO SUSTENTABLE","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Tucumán","664","Alquilado",347.57,-58.3760143784,-34.6012145671
+"15",200026519,"MINISTERIO DE AMBIENTE Y DESARROLLO SUSTENTABLE","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Tucumán","633","Alquilado",318.33,-58.3755248926,-34.6009596316
+"16",200026871,"MINISTERIO DE COMUNICACIONES","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Libertador","498","Alquilado",4362.67,-58.3806653531,-34.589974901
+"17",200023706,"MINISTERIO DE CULTURA","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Adolfo Alsina","465","Alquilado",313.28,-58.3730022036,-34.6100333602
+"18",200043741,"MINISTERIO DE DESARROLLO SOCIAL","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Bernardo de Irigoyen","722","Alquilado",95.43,-58.3800845338,-34.6167547954
+"19",200023498,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Moreno","1257","Alquilado",1587.98,-58.3841185672,-34.6118444201
+"20",200042212,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Piedras","77","Alquilado",698.5,-58.377882644,-34.6091562343
+"21",200042220,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","369","Alquilado",104.46,-58.3818384672,-34.6123849691
+"22",200042247,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","355","Alquilado",474.59,-58.3818944285,-34.6125708061
+"23",200042255,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","355/369","Alquilado",479.17,-58.38192531,-34.6125444816
+"24",200042281,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","355/369","Alquilado",279.64,-58.3818673449,-34.6125627951
+"25",200042328,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Brasil","457","Alquilado",137.43,-58.3719805549,-34.625337987
+"26",200042336,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875/883","Alquilado",436.44,-58.3788806919,-34.6081827254
+"27",200042344,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. de Mayo","844","Alquilado",251.68,-58.3783582712,-34.6090461783
+"28",200042352,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. de Mayo","844","Alquilado",271.11,-58.3784069324,-34.6090444343
+"29",200042360,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. de Mayo","844","Alquilado",233.28,-58.3783508409,-34.6090725034
+"30",200042387,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","369/355","Alquilado",146.51,-58.3819136024,-34.6125971421
+"31",200042409,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","369/355","Alquilado",118.93,-58.3818968304,-34.6125876345
+"32",200042417,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Bernardo de Irigoyen","330","Alquilado",390.28,-58.3802157292,-34.6122139715
+"33",200042425,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",368.96,-58.3788306656,-34.608183744
+"34",200042433,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",479.85,-58.3788410894,-34.6081415785
+"35",200042441,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",497.77,-58.3788657659,-34.6081582538
+"36",200042451,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",384.99,-58.3788346795,-34.6081449967
+"37",200042468,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",397.1,-58.3788420023,-34.6081829361
+"38",200042476,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",521.81,-58.3788534501,-34.6081686262
+"39",200042484,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Rivadavia","875","Alquilado",342.21,-58.3788263433,-34.6081795157
+"40",200042506,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",293.02,-58.3773252368,-34.6124739824
+"41",200042514,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",243.5,-58.3773234487,-34.6124901707
+"42",200042522,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",316.87,-58.3773288131,-34.6124886991
+"43",200042530,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",280.37,-58.3773453534,-34.6124743872
+"44",200042549,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",327.51,-58.3773346245,-34.6124670289
+"45",200042557,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",347,-58.3773444593,-34.6124714438
+"46",200043731,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Lima","369/355","Alquilado",165.54,-58.3818818697,-34.6127598805
+"47",200050207,"MINISTERIO DE SALUD","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Av. Julio Argentino Roca","781","Alquilado",314.47,-58.3772572875,-34.6123542628
+"48",200023528,"MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Alsina Doctor Adolfo","657","Alquilado",73.98,-58.3754579514,-34.61040415
+"49",200023358,"MINISTERIO DE TRANSPORTE","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Esmeralda","117","Alquilado",189.25,-58.3776776668,-34.60684557
+"50",200023218,"MINISTERIO DE TURISMO","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Suipacha","1111","Alquilado",1010.86,-58.3797226186,-34.5951729175
+"51",200023307,"MINISTERIO DE TURISMO","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Suipacha","1109","Alquilado",1160.72,-58.3797382526,-34.5951632291
+"52",200023323,"MINISTERIO DE TURISMO","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Suipacha","1111","Alquilado",924.26,-58.3797490989,-34.5951772262
+"53",200023455,"INSTITUTO NACIONAL DE SEMILLAS","Argentina","Ciudad Autonoma de Buenos Aires","Comuna 1",NA,"Venezuela","162","Alquilado",145792.5,-58.3674858675,-34.6146113109
